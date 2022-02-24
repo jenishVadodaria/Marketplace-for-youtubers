@@ -1,0 +1,11 @@
+*.pyc  
+*~  
+__pycache__  
+
+myvenv  
+
+db.sqlite3  
+
+Pipfile.lock
+
+.DS_Store  
